@@ -1,3 +1,9 @@
+## How to develop Technology based MVP for you startup Without having Coding background
+Desiging the MVP or minimal viable product for your startup can tough for any one who have or have not coding background Because this can be tremendous or tedious job for developer who don't have any coding experience in building or developing the product for the masses 
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sudhanshuranjanAki/websitedevelopment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
